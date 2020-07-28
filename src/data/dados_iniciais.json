@@ -1,0 +1,118 @@
+{
+  "categorias": [
+    {
+      "titulo": "Curiosidades",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "O que é Linux? – Explicação completa para INICIANTES",
+          "url": "https://www.youtube.com/watch?v=K05CssAbQgo"
+        },
+        {
+          "titulo": "Você já instalou Linux desse jeito? /HOME compartilhada",
+          "url": "https://www.youtube.com/watch?v=pvDh-AqI5b0"
+        },
+        {
+          "titulo": "Parece que não vai morrer nunca! (Talvez devesse...)",
+          "url": "https://www.youtube.com/watch?v=liKmEsV-i9g"
+        },
+        {
+          "titulo": "Conheça o novo recurso do Ubuntu 20.04 LTS - ZFS (File System)",
+          "url": "https://www.youtube.com/watch?v=ppRLlMqRu9g"
+        },
+        {
+          "titulo": "Uma versão do Manjaro que você vai querer conhecer!",
+          "url": "https://www.youtube.com/watch?v=ABcVr1rzCLY"
+        }       
+      ]
+    },
+    {
+      "titulo": "Animações",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Agora SIM NVIDIA! Ubuntu 19.10 e Canonical 5G - Diolinux Friday Show",
+          "url": "https://www.youtube.com/watch?v=dIAW7h8t-VY"
+        },
+        {
+          "titulo": "Como usar o OBS Studio para fazer Lives - Tutorial MEGA COMPLETO",
+          "url": "https://www.youtube.com/watch?v=ZJDH6alecAM"
+        },
+        {
+          "titulo": "Linux para MENTES CRIATIVAS - Ubuntu Studio - Overview",
+          "url": "https://www.youtube.com/watch?v=V-5ardanimg"
+        },
+        {
+          "titulo": "Como editar os Apps do Menu no Linux (arquivos .desktop)",
+          "url": "https://www.youtube.com/watch?v=ouD5gtK_rEk"
+        }
+      ]
+    },
+    {
+      "titulo": "Melhores Distros",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Linux Mint 20 - Todas as novidades! - Cinnamon, MATE e XFCE",
+          "url": "https://www.youtube.com/watch?v=CcLhKS4crBs&t=305s"
+        },
+        {
+          "titulo": "Caminho Certo? Manjaro corrigiu boa parte de seus erros como produto",
+          "url": "https://www.youtube.com/watch?v=Q6enbN9R6Jc&t=337s"
+        },
+        {
+          "titulo": "Deepin 20 Beta - Só beleza e nada mais? - Review",
+          "url": "https://www.youtube.com/watch?v=7PB1gu4VZUo"
+        },
+        {
+          "titulo": "O que o novo Ubuntu 20.04 LTS tem a oferecer? - Novidades da versão!",
+          "url": "https://www.youtube.com/watch?v=5Cf5L2X8sQ0"
+        }
+      ]
+    },
+    {
+      "titulo": "Tutoriais",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "O QUE SÃO PARTIÇÕES? - PRIMÁRIAS, LÓGICAS e ESTENDIDAS (MBR/GPT)",
+          "url": "https://www.youtube.com/watch?v=Vd-CEeoonIM&list=PLZsjaJhVZaxX9xCXhZDJnhFcIL4ncLjVj&index=2"
+        },
+        {
+          "titulo": "VOCÊ CONSEGUE USAR LINUX? TUTORIAL DE FORMATAÇÃO! 🐧",
+          "url": "https://www.youtube.com/watch?v=WgJksOkfnTQ&list=PLZsjaJhVZaxX9xCXhZDJnhFcIL4ncLjVj&index=4"
+        },
+        {
+          "titulo": "Aprenda os comandos básicos do Linux - Terminal Ubuntu",
+          "url": "https://www.youtube.com/watch?v=JEhVB4VHsTI&list=PLZsjaJhVZaxX9xCXhZDJnhFcIL4ncLjVj&index=6"
+        },
+        {
+          "titulo": "Cadê o Disco C no Linux?",
+          "url": "https://www.youtube.com/watch?v=90UseHX4-ns&list=PLZsjaJhVZaxX9xCXhZDJnhFcIL4ncLjVj&index=5"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Jogando League of Legends no Linux via Lutris - Linux Game Show",
+          "url": "https://www.youtube.com/watch?v=d-Xp0n9NT1Q"
+        },
+        {
+          "titulo": "Lutris - Linux Game Manager",
+          "url": "https://www.youtube.com/watch?v=0mxlJINrd1Q"
+        },
+        {
+          "titulo": "Vulkan - O futuro dos games",
+          "url": "https://www.youtube.com/watch?v=bQggdISqeRQ"
+        },
+        {
+          "titulo": "GTA V, Dota 2, MK XL e Rocket League - Linux Game Show",
+          "url": "https://www.youtube.com/watch?v=GFmI22oesQ8"
+        }
+      ]
+    }    
+  ]
+}
